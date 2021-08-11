@@ -12,8 +12,8 @@
 
 
 
-#define WIFI_SSID "niko-zoran"
-#define WIFI_PASS "nzzwiffi"
+#define WIFI_SSID "SSID of your wifi"
+#define WIFI_PASS "password of your wifi"
 
 
 #define FIREBASE_AUTH "Tzb8jdbcVRGNmzVi7ajYrU5n1jy3I8R2rLahKu6r"
