@@ -5,7 +5,7 @@ A system for securing access to the home and rooms of a building.
 
   1. About the project
   2. Project structure
-      1. Security system (Arduino App)
-      2. Android App
-      3. PIN Generator and Updater
-      4. Firebase Databases
+      * Security system (Arduino App)
+      * Android App
+      * PIN Generator and Updater
+      * Firebase Databases
