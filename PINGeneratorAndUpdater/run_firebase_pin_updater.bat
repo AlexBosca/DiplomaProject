@@ -1,0 +1,1 @@
+"C:\Users\alex_\AppData\Local\Programs\Python\Python39\python.exe" "D:\Python\python_firebase\firebase_pin_updater.py"

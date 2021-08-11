@@ -1,0 +1,1 @@
+python firebase_pin_updater.py
