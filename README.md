@@ -43,19 +43,55 @@ A system for securing access to the home and rooms of a building.
     * Press the button for displaying your access PIN.
     * Press the logout button for logout.
 
-&nbsp; In the following pictures you can see the Graphical User Interface:
+#### In the following pictures you can see the Graphical User Interface:
 
-![LoginPage](/SecuritySystemApp/LoginPage.jpeg)
-*Login Page
 
-![SignUpPage](/SecuritySystemApp/SignUpPage.jpeg)
-*Sign Up Page
+<p align="center">
+  <img src="/SecuritySystemApp/screenshots/LoginPage.jpeg" alt="LoginPage" width="250">
+</p>
 
-![ForgotPasswordPage](/SecuritySystemApp/ForgotPasswordPage.jpeg)
-*Login Page
+<p align="center">
+  Login Page
+</p>
 
-![MainPage](/SecuritySystemApp/MainPage.jpeg)
-*Main Page
+<br/>
+<br/>
+
+
+<p align="center">
+  <img src="/SecuritySystemApp/screenshots/SignUpPage.jpeg" alt="SignUpPage" width="250"/>
+</p>
+
+<p align="center">
+  SignUp Page
+</p>
+
+<br/>
+<br/>
+
+
+<p align="center">
+  <img src="/SecuritySystemApp/screenshots/ForgotPasswordPage.jpeg" alt="ForgotPasswordPage" width="250"/>
+</p>
+
+<p align="center">
+  Forgot Password Page
+</p>
+
+<br/>
+<br/>
+
+
+<p align="center">
+  <img src="/SecuritySystemApp/screenshots/MainPage.jpeg" alt="MainPage" width="250"/>
+</p>
+
+<p align="center">
+  Main Page
+</p>
+
+<br/>
+
 
 ### PIN Generator and Updater
 
