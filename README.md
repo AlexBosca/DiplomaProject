@@ -5,7 +5,7 @@ A system for securing access to the home and rooms of a building.
 
   1. About the project
   2. Project structure
-      * Security system (Arduino App)
+      * Security System (Arduino App)
       * Android App
       * PIN Generator and Updater
       * Firebase Databases
@@ -17,4 +17,16 @@ A system for securing access to the home and rooms of a building.
   
 ## 2. Project structure
 
+&nbsp; This project is composed from four components and they are:
+* Security system (Arduino App)
+* Android App
+* PIN Generator an Updater
+* Firebase Databases
 
+### Security System
+
+&nbsp; It represents the hardware part of the entire system both the interconnection of hardware components and their Arduino controller program.
+
+&nbsp; In the following figure is presented the hardware architecture:
+<br/>
+<!-- ![Hardware Architecture]() -->
