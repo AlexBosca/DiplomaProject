@@ -43,6 +43,20 @@ A system for securing access to the home and rooms of a building.
     * Press the button for displaying your access PIN.
     * Press the logout button for logout.
 
+&nbsp; In the following pictures you can see the Graphical User Interface:
+
+![LoginPage](/SecuritySystemApp/LoginPage.jpeg)
+*Login Page
+
+![SignUpPage](/SecuritySystemApp/SignUpPage.jpeg)
+*Sign Up Page
+
+![ForgotPasswordPage](/SecuritySystemApp/ForgotPasswordPage.jpeg)
+*Login Page
+
+![MainPage](/SecuritySystemApp/MainPage.jpeg)
+*Main Page
+
 ### PIN Generator and Updater
 
 &nbsp; This component represnts a Pyton application that has the role to generate access codes for all registered users and to update them in the database once a day. That app will run daily at a given time through Windows Task Scheduler.
