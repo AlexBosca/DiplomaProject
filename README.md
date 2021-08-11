@@ -29,4 +29,4 @@ A system for securing access to the home and rooms of a building.
 
 &nbsp; In the following figure is presented the hardware architecture:
 <br/>
-<!-- ![Hardware Architecture]() -->
+![Hardware Architecture](/SecuritySystemArduino/HardwareArhitecture.png)
