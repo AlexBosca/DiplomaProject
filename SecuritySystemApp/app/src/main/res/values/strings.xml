@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SecuritySystemApp</string>
+    <string name="logo">Security System</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Password</string>
+    <string name="login">LogIn</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="search">Search</string>
+    <string name="unlock">Unlock</string>
+    <string name="logout">Logout</string>
+    <string name="your_profile">Your Profile</string>
+    <string name="change">Change</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone">Phone</string>
+</resources>
